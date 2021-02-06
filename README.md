@@ -18,3 +18,10 @@ Intermediate to Advance Level 20 projects
 
 
 
+3. Picture in Picture: use screen capture API to generate a share screen web page, click start button to begin picture in picture display and playing. Cool right?!
+
+
+![Picture in Picture](https://user-images.githubusercontent.com/52498280/107109280-b36d6a80-688a-11eb-95bb-f917f294fd42.gif)
+
+
+
